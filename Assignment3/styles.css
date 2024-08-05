@@ -1,0 +1,44 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+
+div {
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+textarea {
+    height: 100px;
+    text-align: center;
+
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    text-align: justify;
+
+}
